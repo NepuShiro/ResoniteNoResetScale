@@ -1,6 +1,6 @@
-# NeosNoResetScale
+# ResoniteNoResetScale
 
-A [NeosModLoader](https://github.com/zkxs/NeosModLoader) mod for [Neos VR](https://neos.com/) that removes the Reset Scale functionality from the built in context menu button. This allows you to lock your scale whenever you want. 
+A [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader) mod for [Resonite](https://resonite.com/) that removes the Reset Scale functionality from the built in context menu button. This allows you to lock your scale whenever you want. 
 
 Relevant Neos issue: [#3505](https://github.com/Neos-Metaverse/NeosPublic/issues/3505)
 
@@ -13,6 +13,6 @@ Restoring the reset scale functionality is left as an exercise for the user. If 
 | Transition Time | 0.25 seconds |
 
 ## Installation
-1. Install [NeosModLoader](https://github.com/zkxs/NeosModLoader).
-2. Place [NeosNoResetScale.dll](https://github.com/zkxs/NeosNoResetScale/releases/latest/download/NeosNoResetScale.dll) into your `nml_mods` folder. This folder should be at `C:\Program Files (x86)\Steam\steamapps\common\NeosVR\nml_mods` for a default install. You can create it if it's missing, or if you launch the game once with NeosModLoader installed it will create the folder for you.
-3. Start the game. If you want to verify that the mod is working you can check your Neos logs.
+1. Install [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader).
+2. Place [ResoniteNoResetScale.dll](https://github.com/NepuShiro/ResoniteNoResetScale/releases/latest/download/ResoniteNoResetScale.dll) into your `rml_mods` folder. This folder should be at `C:\Program Files (x86)\Steam\steamapps\common\Resonite\rml_mods` for a default install. You can create it if it's missing, or if you launch the game once with ResoniteModLoader installed it will create the folder for you.
+3. Start the game. If you want to verify that the mod is working you can check your Resonite logs.
